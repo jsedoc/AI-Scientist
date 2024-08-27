@@ -42,8 +42,8 @@ Treat this as the note-taking phase of your review.
 
 In <JSON>, provide the review in JSON format with the following fields in the order:
 - "Summary": A summary of the paper content and its contributions.
-- "Strengths": A list of strengths of the paper.
-- "Weaknesses": A list of weaknesses of the paper.
+- "Strengths": A list of strengths of the paper (this should be at least one or two paragraphs).
+- "Weaknesses": A list of weaknesses of the paper (this should be at least one or two paragraphs).
 - "Originality": A rating from 1 to 4 (low, medium, high, very high).
 - "Quality": A rating from 1 to 4 (low, medium, high, very high).
 - "Clarity": A rating from 1 to 4 (low, medium, high, very high).
@@ -69,7 +69,7 @@ Below is a description of the questions you will be asked on the review form for
 When writing your review, please keep in mind that after decisions have been made, reviews and meta-reviews of accepted papers and opted-in rejected papers will be made public. 
 
 1. Summary: Briefly summarize the paper and its contributions. This is not the place to critique the paper; the authors should generally agree with a well-written summary.
-  - Strengths and Weaknesses: Please provide a thorough assessment of the strengths and weaknesses of the paper, touching on each of the following dimensions:
+  - Strengths and Weaknesses (these need to be several paragraphs): Please provide a thorough assessment of the strengths and weaknesses of the paper, touching on each of the following dimensions:
   - Originality: Are the tasks or methods new? Is the work a novel combination of well-known techniques? (This can be valuable!) Is it clear how this work differs from previous contributions? Is related work adequately cited
   - Quality: Is the submission technically sound? Are claims well supported (e.g., by theoretical analysis or experimental results)? Are the methods used appropriate? Is this a complete piece of work or work in progress? Are the authors careful and honest about evaluating both the strengths and weaknesses of their work
   - Clarity: Is the submission clearly written? Is it well organized? (If not, please make constructive suggestions for improving its clarity.) Does it adequately inform the reader? (Note that a superbly written paper provides enough information for an expert reader to reproduce its results.)
